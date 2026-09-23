@@ -57,7 +57,7 @@ display:flex;
 align-items:center;
 gap:28px;
 padding:14px max(4vw,24px);
-background:linear-gradient(180deg,#9883a8,var(--purple));
+background:linear-gradient(180deg,#5c2d80,var(--purple));
 color:#fff;
 box-shadow:0 10px 22px #300d4530
 }
